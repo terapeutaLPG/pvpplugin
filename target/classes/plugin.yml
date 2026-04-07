@@ -1,0 +1,26 @@
+name: PvPPlugin
+version: 1.0.0
+main: pl.jaruso99.pvp.PvPPlugin
+api-version: 1.16
+author: jaruso99
+description: System walk PvP z klatkami i GUI
+
+commands:
+  pvp:
+    description: Otwiera panel PvP
+    usage: /pvp
+  zakoncz:
+    description: Konczy zbieranie itemow po walce
+    usage: /zakoncz
+  pvparena:
+    description: Zarzadzanie arenami
+    usage: /pvparena <set|list|remove> [id]
+    permission: pvp.admin
+
+permissions:
+  pvp.admin:
+    description: Dostep do komend admina
+    default: op
+  pvp.use:
+    description: Mozliwosc uzycia /pvp
+    default: true

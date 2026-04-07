@@ -1,0 +1,15 @@
+pl\jaruso99\pvp\utils\ItemUtils.class
+pl\jaruso99\pvp\gui\PvPGui.class
+pl\jaruso99\pvp\managers\FightManager$1.class
+pl\jaruso99\pvp\managers\FightManager.class
+pl\jaruso99\pvp\managers\FightManager$2.class
+pl\jaruso99\pvp\commands\PvPCommand.class
+pl\jaruso99\pvp\commands\ZakonczCommand.class
+pl\jaruso99\pvp\PvPPlugin.class
+pl\jaruso99\pvp\listeners\MainListener.class
+pl\jaruso99\pvp\managers\FightManager$3.class
+pl\jaruso99\pvp\model\Fight$State.class
+pl\jaruso99\pvp\managers\ArenaManager.class
+pl\jaruso99\pvp\model\Fight.class
+pl\jaruso99\pvp\commands\PvPArenaCommand.class
+pl\jaruso99\pvp\model\Arena.class

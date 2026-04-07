@@ -1,0 +1,21 @@
+# PvPPlugin - konfiguracja
+# autor: jaruso99
+
+settings:
+  # czas trwania walki w sekundach (domyslnie 2 min)
+  fight-duration: 120
+  # czas na zebranie itemow po wygranej (sekundy)
+  collect-time: 60
+  # maksymalna liczba jednoczesnych klatek
+  max-arenas: 5
+  # spawn (domyslnie spawn swiata, mozna zmienic)
+  spawn-world: "world"
+  spawn-x: 0.5
+  spawn-y: 64.0
+  spawn-z: 0.5
+  spawn-yaw: 0.0
+  spawn-pitch: 0.0
+
+# areny sa ustawiane komenda /pvparena set <id>
+# tutaj sa zapisywane automatycznie
+arenas: {}
